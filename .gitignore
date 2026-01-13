@@ -4,10 +4,11 @@ __pycache__/
 venv/
 .venv/
 
-# Output files
-*.csv
-*.tsv
+# Cache
 cache/
+
+# Output files (keep data files)
+best_points*.tsv
 
 # OS
 .DS_Store
